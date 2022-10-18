@@ -158,3 +158,5 @@ console.log(user2.age);
 ### 참고
 
 [사용이유](https://axce.tistory.com/m/59)
+[모던자바스크립트설명](https://ko.javascript.info/property-accessors)
+[class예시](https://axce.tistory.com/m/59)
