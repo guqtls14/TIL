@@ -1,11 +1,11 @@
 ## getter,setter
 
-[getter&setter](#getter--setter)
-[getter](#getter)
-[setter](#setter)
-[사용예시](#사용예시)
-[참고](#참고)
-객체의 프로퍼티는 크게 2가지로 나뉨
+- [getter&setter](#getter--setter)
+- [getter](#getter)
+- [setter](#setter)
+- [사용예시](#사용예시)
+- [참고](#참고)
+  객체의 프로퍼티는 크게 2가지로 나뉨
 
 1. 데이터프로퍼티로써 지금까지 사용한 모든 프로퍼티는 데이터 프로퍼티임
 
@@ -157,6 +157,8 @@ console.log(user2.age);
 
 ### 참고
 
-[사용이유](https://axce.tistory.com/m/59)
-[모던자바스크립트설명](https://ko.javascript.info/property-accessors)
-[class예시](https://axce.tistory.com/m/59)
+> [사용이유](https://axce.tistory.com/m/59)
+
+> [모던자바스크립트설명](https://ko.javascript.info/property-accessors)
+
+> [class예시](https://axce.tistory.com/m/59)
