@@ -101,8 +101,8 @@ html에는 block level elements와 inline level elements로 나뉨
 
 2. **&lt;html>&lt;/html&gt;**
 
-- html element로서 모든 page의 content를 둘러싸고있음
-- 때때로 root element라고도 불림
+   - html element로서 모든 page의 content를 둘러싸고있음
+   - 때때로 root element라고도 불림
 
 3. **&lt;head>&lt;/head&gt;**
    - html 페이지에서 포함되어있는 모든것을 담은 컨테이너 역활을함
