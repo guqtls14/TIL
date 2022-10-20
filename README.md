@@ -7,6 +7,10 @@
 - 열린마음으로 잘못된부분은 즉각 수용해 수정하는것을 목적으로 한다.
 - 하루공부시 조금의 배움이 있더라도 작성한다.
 
+## HTML
+
+- [html](./HTML/html.md)
+
 ## Javascript
 
 - [javascript](JS/JS.md)

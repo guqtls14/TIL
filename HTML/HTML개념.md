@@ -23,10 +23,10 @@ html요소는 오픈태크,컨텐트,클로우즈테크의 형식으로 만들�
 
 ```
 <p>My Cat is <strong>very</strong> grupmy!</p>
-``
+
 ```
 
-**<strong>**처럼 태그안에 쌓인 태그를 nesting elements라고함
+&lt;strong&gt; 처럼 태그안에 쌓인 태그를 nesting elements라고함
 
 ### Block vs Inline elements
 
@@ -95,29 +95,31 @@ html에는 block level elements와 inline level elements로 나뉨
 
 ```
 
-1. \*\*<!DOCTYPE html>
+1. **&lt;!DOCTYPE html&gt;**
 
    - doctype은 HTML 페이지가 좋은 HTML로 간주되기 위해 따라야 하는 일련의 규칙에 대한 링크 역할을 하도록 의도되음
 
-2. **<html></html>**
-   - html element로서 모든 page의 content를 둘러싸고있음
-   - 때때로 root element라고도 불림
-3. **<head></head>**
+2. **&lt;html>&lt;/html&gt;**
+
+- html element로서 모든 page의 content를 둘러싸고있음
+- 때때로 root element라고도 불림
+
+3. **&lt;head>&lt;/head&gt;**
    - html 페이지에서 포함되어있는 모든것을 담은 컨테이너 역활을함
    - 페이지의 **content** 를 보여주는 역활은아님(사용자에게 표시할 내용을 담지는않음)
    - keyword,페이지설명,검색결과등의 내용을 담으며 css style content등과같은 정보를 담고있음
-4. **<meta charset="utf-8">**
+4. **&lt;meta charset="utf-8"&gt;**
 
    - meta원소로서 meta데이터를 담고있음
    - charset attributes는 쉽게말해 문서에 대한 문자 집합을 UTF-8로 설정. 이 문자 집합에는 대부분의 사람이 쓰는 언어의 문자가 포함. 이 설정을 사용하면 페이지는 포함할 수 있는 모든 텍스트 내용을 처리할 수 있음. 이 설정을 하지 않을 이유가 없으며, 나중에 문제가 발생하지 않도록 하는 데 도움이 될 수 있음.
      - [utf-8설명](https://meaningone.tistory.com/191)
      - [부호화](https://itpenote.tistory.com/361)
 
-5. **<title></title>**
+5. **&lt;title>&lt;/title&gt;>**
 
    - page의 title을 설정
 
-6. **<body></body>**
+6. **&lt;body>&lt;/body&gt;**
 
    - 화면에 표시되는 모든 content가 담겨있는 태그
 
