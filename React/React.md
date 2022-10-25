@@ -12,3 +12,7 @@
 ### Recoil 관련 개념
 
 - [recoil큰그림](./recoil/%EC%9A%A9%EC%96%B4%EB%B0%8F%EA%B0%9C%EB%85%90.md)
+
+### Reduc
+
+- [pureRedux](./redux/pureRedux.md)
