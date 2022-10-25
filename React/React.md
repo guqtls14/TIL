@@ -13,6 +13,6 @@
 
 - [recoil큰그림](./recoil/%EC%9A%A9%EC%96%B4%EB%B0%8F%EA%B0%9C%EB%85%90.md)
 
-### Reduc
+### Redux
 
 - [pureRedux](./redux/pureRedux.md)
